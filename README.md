@@ -1,5 +1,5 @@
 # encryption_clustering - Multiple thread version
-Implementation of CTKM.
+Implementation of CEUT.
 
 The code is implemented by Shuhai Meng and modified and archived by Yinjia Zhang.
 
